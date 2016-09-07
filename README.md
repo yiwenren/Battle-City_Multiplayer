@@ -1,6 +1,6 @@
 # Battle-City_Multiplayer
 
-It is a multiple-player game. 
+This is a updated version of Battle City, which allows multiple-players to involve in. 
 
 Firstly run TankServer.java. Then after the server runs succeefully, players can run TankClient.java to participate in this battle. 
 
@@ -10,4 +10,4 @@ Tanks can run by pressing up, down, left and right.
 
 Tanks can attack others by pressing "Z".
 
-Compared with the single version, for simplification, I didn't add pictures for tanks and missiles. 
+The graphical aspect of the game doesn't change too much compared with previous single-player version, however, for simplification, I didn't add any graphics for tanks and missiles. 
